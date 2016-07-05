@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<table>
+<srow>
+<grade type="Integer">
+</grade>
+<name type="String">
+</name>
+</srow>
+<row>
+<grade type="Integer">
+5
+</grade>
+<name type="String">
+sherif
+</name>
+</row>
+</table>
